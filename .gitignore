@@ -32,3 +32,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Lombok Config ###
+lombok.config
